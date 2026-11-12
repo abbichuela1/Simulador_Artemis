@@ -8,6 +8,8 @@
   * [Galeano Zahira Abigail] - [30445]
   * [Rodriguez Antonella de los Angeles] - [30348]
   * [Sandoval Lautaro] - [31131]
+  * [Sosa Milena] 
+  * [Benitez Mauro Dante] - [31497]
 
 ### b) Escenario asignado
 **Situación - Problema 1: Ascenso y Propulsión con el SLS (MRUV y Desprendimiento)**
